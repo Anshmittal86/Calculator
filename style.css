@@ -78,8 +78,8 @@ form input.opreator {
 
 @media screen and (max-width: 475px) {
   form input {
-    width: 4rem;
-    height: 4rem;
+    width: 5rem;
+    height: 5rem;
   }
 
   form .display {
